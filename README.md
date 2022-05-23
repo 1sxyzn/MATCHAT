@@ -16,7 +16,11 @@ ___
 - 챗봇 기술을 통한 사용자들 간의 원활한 의사소통 제공   
 
 ## 📌동기 및 목적
-####
+자체적으로 시행한 설문조사 결과, 기존 중고 거래 플랫폼 이용 시 문제점으로 사용자 간 소통의 불편함과 제품 사기가 가장 큰 비율을 차지함   
+   
+<img src="C:/Users/johay/Desktop/KakaoTalk_20220518_231520115.jpg" width="300" height="150">   
+   
+💡이와 같은 문제점을 해결하기 위해 딥러닝 기반 중고 거래 플랫폼을 만들고자 함
 
 ## 📌기술 스택
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/> <img src="https://img.shields.io/badge/-NGINX-009639?style=flat&logo=NGINX"/> <img src="https://img.shields.io/badge/-MySQL-E8E8E8?style=flat&logo=MySQL"/> <img src="https://img.shields.io/badge/-Amazon AWS-FF9900?style=flat&logo=Amazon AWS"/> <img src="https://img.shields.io/badge/-Raspberry Pi-A22846?style=flat&logo=Raspberry Pi"/> <img src="https://img.shields.io/badge/-Dialogflow-4285F4?style=flat&logo=Dialogflow"/> <img src="https://img.shields.io/badge/-Kakao-2C2255?style=flat&logo=Kakao"/>
