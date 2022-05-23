@@ -24,4 +24,15 @@ ___
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/> <img src="https://img.shields.io/badge/-NGINX-009639?style=flat&logo=NGINX"/> <img src="https://img.shields.io/badge/-MySQL-E8E8E8?style=flat&logo=MySQL"/> <img src="https://img.shields.io/badge/-Amazon AWS-FF9900?style=flat&logo=Amazon AWS"/> <img src="https://img.shields.io/badge/-Raspberry Pi-A22846?style=flat&logo=Raspberry Pi"/> <img src="https://img.shields.io/badge/-Dialogflow-4285F4?style=flat&logo=Dialogflow"/> <img src="https://img.shields.io/badge/-Kakao-2C2255?style=flat&logo=Kakao"/>
 
 ## 📌시나리오
-####
+#### 🎁판매자
+1. 판매할 상품의 사진과 기본 정보들을 업로드하여 사전 등록을 한 후, 인증번호를 부여받는다.
+2. 사전등록된 상품을 가지고 matchat 함으로 이동해 인증번호를 입력한 후, 상품을 넣는다.
+3. 사진 촬영을 진행하고 사전등록된 상품과 동일한 상품인지에 대한 판정을 받는다.
+4. 동일한 상품이라면 잠금장치가 닫히며 판매상품으로 등록 완료되어 matchat 사이트의 상품 목록에서 확인할 수 있다.   
+   
+#### 🎁구매자
+1. matchat 사이트의 상품 목록에서 구매하고자 하는 상품을 찾는다.
+2. 상품에 대한 문의사항은 구매자와 직접적인 연락없이 챗봇을 통해 문의한다.
+3. 구매를 결정하였다면 결제를 진행한 후, 인증번호를 부여받는다.
+4. matchat 함으로 이동하여 인증번호를 입력한 후 잠금장치가 열리면 상품을 수령한다.
+
