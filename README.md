@@ -6,7 +6,7 @@
 ####
 
 ### 🧾 제품 설명서
-####
+#### [제품 설명서를 확인해주세요.](https://github.com/i4-MATCHAT/MATCHAT/blob/main/manual.pdf)
 
 ___
 
