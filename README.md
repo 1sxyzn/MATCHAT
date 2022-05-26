@@ -1,6 +1,9 @@
 # 딥러닝 기반 중고거래 플랫폼 : MATCHAT
 ### 🔗 깃허브 링크
 ####
+- Model + API : https://github.com/i4-MATCHAT/ModelAPI.git
+
+- KioskApp : https://github.com/i4-MATCHAT/KioskApp.git
 
 ### 📽 시연 영상
 ####
