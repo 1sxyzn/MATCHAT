@@ -6,6 +6,9 @@
 - KioskApp : https://github.com/i4-MATCHAT/KioskApp.git
 
 ### 📽 시연 영상
+- 포스터 설명 : https://youtu.be/n5sgnBoheOU
+
+- 제품 시연 : https://youtu.be/AKayyEM51Gg
 ####
 
 ### 🧾 제품 설명서
